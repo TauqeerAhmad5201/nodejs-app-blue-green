@@ -6,7 +6,7 @@ spec:
   type: NodePort
   selector:
     app: node-app
-    version: <mention any version > #blue or green
+    version: blue
   ports:
   - port: 3000
     targetPort: 3000
