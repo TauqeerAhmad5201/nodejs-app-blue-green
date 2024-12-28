@@ -1,0 +1,12 @@
+{
+  "name": "node-k8s-rolling-update",
+  "version": "1.0.0",
+  "description": "Simple Node.js application with Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
